@@ -1,1 +1,1 @@
-discordbot: python RateCaluculator.py
+discordbot: python RateCalculator.py
